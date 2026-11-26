@@ -1,0 +1,19 @@
+node_modules/
+android-build/
+.sign/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.password
+*.log
+.env*
+local.properties
+__pycache__/
+
+# Gerados por node build-web.mjs
+/src/icons.generated.js
+/web/app.js
+/web/static/licencas.txt
